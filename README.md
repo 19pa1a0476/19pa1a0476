@@ -47,7 +47,7 @@ Welcome to my GitHub! I’m passionate about creating **real-world AI solutions*
 ---
 
 ## 📫 Connect With Me
-- 🌐 [LinkedIn](#)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shyam-chandra-reddy-kethu-b82210204/)  
 - 🐦 [Twitter](#)  
 - 💌 Reach me at: **kethu.shyam@gmail.com**
 
