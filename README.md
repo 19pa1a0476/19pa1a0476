@@ -37,7 +37,7 @@ Welcome to my GitHub! I’m passionate about creating **real-world AI solutions*
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=19pa1a0476&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19pa1a0476&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19pa1a0476&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
