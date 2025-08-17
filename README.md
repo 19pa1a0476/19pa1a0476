@@ -14,10 +14,10 @@ Welcome to my GitHub! I’m passionate about creating **real-world AI solutions*
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL, JavaScript  
-- **AI/ML**: LangChain, Hugging Face, Dedoc, OpenAI APIs  
+- **Languages**: Python, SQL, Java  
+- **AI/ML**: LangChain, Dedoc, OpenAI APIs, Claude 
 - **Databases**: PostgreSQL + PGVector, FAISS  
-- **Cloud & DevOps**: Docker, Streamlit, GitHub Actions  
+- **Cloud & DevOps**: Docker, Azure, AWS 
 
 ---
 
