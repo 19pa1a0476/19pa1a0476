@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m passionate about creating **real-world AI solutions*
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,docker,git,github,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,docker,git,github,azure,aws" />
   <br>
   <img src="https://skillicons.dev/icons?i=postgres,linux,vscode" />
 </p>
