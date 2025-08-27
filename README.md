@@ -1,80 +1,78 @@
-# 👋 Hi, I'm Shyam!
-
-🚀 **AI/ML Enthusiast** | 🤖 **Building AI Agents & Automation** | 🌐 **Open Source Contributor**
-
-Welcome to my GitHub! I’m passionate about creating **real-world AI solutions** — from document intelligence pipelines to AI-powered assistants that make life easier.  
-
----
-
-## 🔭 What I'm Working On
-- 🧠 AI agents that automate **job applications & productivity tasks**  
-- 📂 Document AI pipelines (PDF → Dedoc → Embeddings → Search & Summaries)  
-- 📊 Dashboards for tracking **LLM cost, latency, and accuracy**  
-
----
-
-## 🛠️ Languages & Tools
+<h1 align="center">👋 Hi, I'm Shyam! </h1>
+<p align="center"><b>AI/ML Enthusiast 🚀 | Building Intelligent Agents 🤖 | Open Source Contributor 🌐</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,docker,git,github,azure,aws" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,linux,vscode" />
+  <a href="mailto:kethu.shyam@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/shyam-chandra-reddy-kethu-b82210204/">LinkedIn</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://discord.com/">Discord</a>
 </p>
+<br>
+
+> **Let’s innovate together in the AI era!**  
+> I build practical AI solutions that boost productivity, automate tedious tasks, and advance open source.
+
+---
+
+## 📌 Table of Contents
+- [What I Do](#what-i-do)
+- [Featured Projects](#featured-projects)
+- [Skills & Tools](#skills--tools)
+- [GitHub Stats](#github-stats)
+- [Repository Stats](#repository-stats)
+- [Holopin Badges](#holopin-badges)
+- [Let’s Connect!](#lets-connect)
+
+---
+
+## 🔭 What I Do
+- 🧠 **AI Agents** for automating job applications & productivity tasks
+- 📂 **Document Intelligence Pipelines:** PDF → Dedoc → Embeddings → Smart search & summaries
+- 📊 **LLM Dashboards:** Track LLM cost, latency, and accuracy in real time
 
 ---
 
 ## 🌟 Featured Projects
-🔹 [AI Job Application Agent](#)  
-*Automates CV tailoring, job search, and applications with AI agents.*  
-
-🔹 [LLM Cost Monitor](#)  
-*Dashboard for tracking usage, cost, and performance of LLMs.*  
-
-🔹 [Document AI Pipeline](#)  
-*Processes PDFs using Dedoc → Embeds in PGVector → Enables smart search.*  
+| Project                        | Description                                              | Demo / Repo   |
+|---------------------------------|----------------------------------------------------------|:-------------:|
+| **AI Job Application Agent**    | Automates CV tailoring, job search, and applications     | [🚀 View](#)  |
+| **LLM Cost Monitor**            | Dashboard for LLM usage, cost, and performance           | [📊 View](#)  |
+| **Document AI Pipeline**        | PDF processing with Dedoc & PGVector for smart search    | [📂 View](#)  |
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=19pa1a0476&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19pa1a0476&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://skillicons.dev/icons?i=python,java,docker,git,github,azure,aws,postgres,linux,vscode" />
 </p>
 
 ---
 
-## 📈 Repository Stats
-![Profile Views](https://komarev.com/ghpvc/?username=19pa1a0476&label=Profile%20Views&color=blue&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/19pa1a0476?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/19pa1a0476?style=social)  
-
----
-
-## 🪄 My Holopin Badges
-[![@19pa1a0476's Holopin board](https://holopin.me/19pa1a0476)](https://holopin.io/@19pa1a0476)  
-
----
-
-## 🤝 Open To Collaborate
-I’m always open to **collaborating on Open Source AI/ML projects**!  
-If you have something exciting, let’s build it together 🚀  
-
----
-
-## 📫 Connect With Me
+## 📈 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyam-chandra-reddy-kethu-b82210204/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=19pa1a0476&show_icons=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19pa1a0476&layout=compact&theme=transparent" height="200"/>
 </p>
 
-📧 **Email:** kethu.shyam@gmail.com  
+---
+
+## 📊 Repository Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=19pa1a0476&label=Profile%20Views&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/19pa1a0476?style=social)
+![GitHub stars](https://img.shields.io/github/stars/19pa1a0476?style=social)
 
 ---
 
-⭐️ *Let’s innovate together in the AI era!*
+## 🪄 Holopin Badges
+[![@19pa1a0476's Holopin board](https://holopin.me/19pa1a0476)](https://holopin.io/@19pa1a0476)
+
+---
+
+## 🤝 Let’s Connect!
+If you’re looking to **collaborate on AI/ML, need resume/CV automation tools, or want to co-build open source**, let’s chat:
+
+- 📧 **Email:** [kethu.shyam@gmail.com](mailto:kethu.shyam@gmail.com)
+- 🖇️ **LinkedIn:** [Shyam Chandra Reddy Kethu](https://www.linkedin.com/in/shyam-chandra-reddy-kethu-b82210204/)
+
+---
+⭐️ *Have an exciting AI project? Shoot me a message & let’s build something incredible together!* 🚀
