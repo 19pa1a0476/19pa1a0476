@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284112-9226462B-9D12-4521-86EA-511B99932483.gif" alt="placeholder banner - create your own!">
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284112-9226462B-9D12-4521-86EA-511B99932483.gif" alt="placeholder banner - create your own!">
+</p>
 
 <p align="center">
   <a href="mailto:kethu.shyam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
