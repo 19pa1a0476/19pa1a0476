@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284112-9226462B-9D12-4521-86EA-511B99932483.gif" alt="placeholder banner - create your own!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=0FF77E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Shyam+Kethu!;AI%2FML+Enthusiast+%7C+Building+Agents+%26+Automation;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -145,16 +145,6 @@ Here are some of the key projects I've been working on.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=19pa1a0476&theme=react-dark&hide_border=true&area=true&line=61dafb" width="100%"/>
-</p>
-
----
-
-### 🏆 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@19pa1a0476">
-    <img src="https://holopin.me/19pa1a0476?theme=dark&withBackground=true" alt="Holopin Badges" />
-  </a>
 </p>
 
 ---
